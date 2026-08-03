@@ -6,7 +6,7 @@ Android Linux Lab is a personal project documenting my experience running a Linu
 
 The goal of this project was to explore Linux system administration on mobile hardware, learn command-line tools, and understand how a complete Linux userspace can run on Android.
 
-🔥 Run Linux with GPU Acceleration - No Root Required! 🔥
+ Run Linux with GPU Acceleration - No Root Required!
 
 ---
 
@@ -81,3 +81,7 @@ This repository focuses on my own documentation, configuration, testing, and lea
 * Explore networking tools
 * Install development utilities
 * Automate setup with scripts
+
+  ***I make this experiment with the help of HackLab***
+
+  Link:https://github.com/techjarves/termux-hacklab
