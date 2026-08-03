@@ -6,6 +6,8 @@ Android Linux Lab is a personal project documenting my experience running a Linu
 
 The goal of this project was to explore Linux system administration on mobile hardware, learn command-line tools, and understand how a complete Linux userspace can run on Android.
 
+🔥 Run Linux with GPU Acceleration - No Root Required! 🔥
+
 ---
 
 ## Project Goals
