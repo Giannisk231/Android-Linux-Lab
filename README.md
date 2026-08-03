@@ -10,7 +10,9 @@ The goal was to transform a mobile device into a small portable Linux computer a
 
 ## 🚀 Installation
 
-The setup was based on the **HackLab** project from GitHub.
+The setup was based on the **HackLab** project from GitHub. 
+
+  Link:https://github.com/techjarves/termux-hacklab
 
 Using Termux, the Linux environment was installed and configured on Android without requiring root access.
 
@@ -78,8 +80,7 @@ The purpose of this repository is to document my own installation process, exper
 * Test on different Android devices
 
   ***I make this experiment with the help of HackLab***
-
-  Link:https://github.com/techjarves/termux-hacklab
+=========================================================
 
   ⚠️ Disclaimer
 This programs are for EDUCATIONAL PURPOSES ONLY.
