@@ -1,0 +1,7 @@
+Open Termux and paste this:
+
+curl -sL https://raw.githubusercontent.com/jarvesusaram99/termux-hacklab/main/install.sh | bash
+
+Or using wget:
+
+wget -O - https://raw.githubusercontent.com/jarvesusaram99/termux-hacklab/main/install.sh | bash
