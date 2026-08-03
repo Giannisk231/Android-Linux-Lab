@@ -85,3 +85,8 @@ This repository focuses on my own documentation, configuration, testing, and lea
   ***I make this experiment with the help of HackLab***
 
   Link:https://github.com/techjarves/termux-hacklab
+
+  ⚠️ Disclaimer
+This programs are for EDUCATIONAL PURPOSES ONLY.
+Only use on systems you own or have explicit permission to test.
+The author is not responsible for any misuse.
