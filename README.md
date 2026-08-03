@@ -16,6 +16,14 @@ The setup was based on the **HackLab** project from GitHub.
 
 Using Termux, the Linux environment was installed and configured on Android without requiring root access.
 
+Open Termux and paste this:
+
+curl -sL https://raw.githubusercontent.com/jarvesusaram99/termux-hacklab/main/install.sh | bash
+
+Or using wget:
+
+wget -O - https://raw.githubusercontent.com/jarvesusaram99/termux-hacklab/main/install.sh | bash
+
 ---
 
 ## ✨ Features
